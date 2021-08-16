@@ -1,0 +1,1 @@
+The code to the scrap the stock data of the following four technology companies in Pakistan.
